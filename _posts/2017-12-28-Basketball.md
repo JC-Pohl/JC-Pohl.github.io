@@ -3,8 +3,6 @@ layout: post
 title: Men's Basketall Tournament Predictions
 ---
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 
 ```python
 import pandas as pd
