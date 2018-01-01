@@ -1,5 +1,7 @@
---- layout: post
-title: Capstone ---
+---
+layout: post
+title: Supreme Court Predictions
+---
 
 
 ```python

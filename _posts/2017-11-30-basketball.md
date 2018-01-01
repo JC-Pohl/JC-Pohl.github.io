@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Men's Basketall Tournament Predictions
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
