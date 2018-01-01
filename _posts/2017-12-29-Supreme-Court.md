@@ -8,8 +8,7 @@ title: Supreme Court Predictions
 import seaborn as sns
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import train_test_split, GridSearchCV, cross_val_score```
-```
+from sklearn.model_selection import train_test_split, GridSearchCV, cross_val_score
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import OneHotEncoder, label_binarize
 from sklearn.ensemble import RandomForestClassifier
@@ -17,9 +16,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc
 import matplotlib.pyplot as plt
-%matplotlib inline
-
-```
+%matplotlib inline```
 
 
 ```python
