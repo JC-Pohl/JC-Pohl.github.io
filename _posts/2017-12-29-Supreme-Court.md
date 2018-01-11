@@ -2,7 +2,7 @@
 layout: post
 title: Supreme Court Predictions
 ---
-![_config.yml]({{ site.baseurl }}/images/SCImage1.png)
+![_config.yml]({{ site.baseurl }}/images/*)
 
 ```python
 import seaborn as sns
